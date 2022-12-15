@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "type": "package",
+  "dependencies": [
+    "core",
+    "eslint-typescript",
+    "eslint",
+    "github-lint-typecheck-test-build",
+    "jest",
+    "jest-react",
+    "prettier",
+    "react-lib",
+    "rollup-lib",
+    "typescript-react",
+    "typescript",
+    "vscode"
+  ]
+}

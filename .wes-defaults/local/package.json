@@ -1,0 +1,17 @@
+{
+  "name": "wes-react-utils",
+  "version": "1.0.0",
+  "description": "Utilities I wrote myself because why not",
+  "scripts": {},
+  "keywords": [],
+  "author": "Wes Souza <hey@wes.dev>",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
